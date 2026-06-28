@@ -17,7 +17,6 @@
 - 🎂 **Age:** 18 years old
 - 📍 **Location:** Pune, Maharashtra 🇮🇳
 - 🎨 **Role:** Co-Founder @ Ikon Productions
-- 🎓 **Studying:** 3rd Year Diploma — AI & ML (MSBTE K-Scheme)
 - 🐍 **Currently Learning:** Python Backend Development
 - 📅 **Progress:** Day 04 of my Python journey
 - 💼 **Superpower:** Turning creators into paying clients
