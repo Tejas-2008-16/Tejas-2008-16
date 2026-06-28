@@ -12,7 +12,6 @@ tejas = {
     "age"        : 18,
     "location"   : "Pune, Maharashtra 🇮🇳",
     "role"       : "Co-Founder @ Ikon Productions",
-    "studying"   : "3rd Year Diploma — AI & ML (MSBTE K-Scheme)",
     "learning"   : ["Python Backend 🐍", "AI Tools", "Web Dev"],
     "day"        : "Day 04 of Python Backend Journey 🚀",
     "superpower" : "Turning creators into clients 💼",
