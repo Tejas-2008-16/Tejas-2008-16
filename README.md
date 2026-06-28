@@ -1,34 +1,28 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Tejas+%F0%9F%91%8B;18+y%2Fo+%7C+Co-Founder+%40+Ikon+Productions;Python+Learner+%7C+AI+%26+ML+Diploma;Client+Hunter+%7C+Web+Builder+%7C+Creator" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=800&height=60&lines=Hey+there%2C+I'm+Tejas+%F0%9F%91%8B;18+y%2Fo+%7C+Co-Founder+%40+Ikon+Productions;Client+Hunter+%7C+Web+Builder+%7C+Creator;Python+Backend+Learner+%F0%9F%90%8D+%7C+Day+04;Building+brands%2C+one+project+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 <br/>
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
-
 </div>
 
----
-
-## 🙋‍♂️ About Me
+🙋‍♂️ About Me
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="about me gif"/>
 
-- 🎂 **Age:** 18 years old
-- 📍 **Location:** Pune, Maharashtra 🇮🇳
-- 🎨 **Role:** Co-Founder @ Ikon Productions
-- 🐍 **Currently Learning:** Python Backend Development
-- 📅 **Progress:** Day 04 of my Python journey
-- 💼 **Superpower:** Turning creators into paying clients
+🎂 Age: 18 years old
+📍 Location: Pune, Maharashtra 🇮🇳
+🎨 Role: Co-Founder @ Ikon Productions
+🎓 Studying: 3rd Year Diploma — AI & ML (MSBTE K-Scheme)
+🐍 Currently Learning: Python Backend Development
+📅 Progress: Day 04 of my Python journey
+💼 Superpower: Turning creators into paying clients
 
----
 
-## 🚀 What I Do
+
+🚀 What I Do
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&width=100%" />
 </p>
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -54,14 +48,11 @@
   </tr>
 </table>
 
----
-
-## 🌐 Projects & Websites I've Built
+🌐 Projects & Websites I've Built
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=header&text=My+Builds&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Projects Banner"/>
 </p>
-
 <table align="center">
   <tr>
     <th>🔗 Project</th>
@@ -100,19 +91,18 @@
   </tr>
 </table>
 
----
-
-## 🐍 Python Learning Journey
+🐍 Python Learning Journey
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=header&text=Python+Backend+Roadmap&fontSize=26&fontColor=ffffff&animation=twinkling&desc=Day+04+%7C+Building+from+scratch+%F0%9F%94%A5&descSize=14&descAlignY=75" alt="Python Banner"/>
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" alt="Python Snake"/>
 </p>
 
-> 📍 Following my public [**Python Backend Roadmap**](https://github.com/Tejas-2008-16/python-backend-roadmap) — Day by Day 🔥
+📍 Following my public Python Backend Roadmap — Day by Day 🔥
+
+
 
 <table align="center">
   <tr>
@@ -129,9 +119,7 @@
   <tr><td>⏳</td><td>OOP</td><td>Coming soon</td></tr>
 </table>
 
----
-
-## 🛠️ Tech & Tools
+🛠️ Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -144,15 +132,15 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
----
-
-## 🤖 AI Outreach Writer (Local Tool)
+🤖 AI Outreach Writer (Local Tool)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&text=AI+Outreach+Writer+%F0%9F%A4%96&fontSize=28&fontColor=6E40C9&animation=fadeIn&stroke=6E40C9&strokeWidth=2" alt="AI Tool Banner"/>
 </p>
 
-> Built a private AI-powered tool that automates my entire outreach workflow:
+Built a private AI-powered tool that automates my entire outreach workflow:
+
+
 
 <table align="center">
   <tr><td>📥</td><td>Upload Excel sheet of creator leads</td></tr>
@@ -161,26 +149,20 @@
   <tr><td>🧠</td><td>Asks for tone, style & content preferences</td></tr>
   <tr><td>✉️</td><td>Auto-writes personalized DMs & emails for every creator</td></tr>
 </table>
-
 <p align="center"><em>Running locally — because some things are better kept secret 😏</em></p>
 
----
-
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejas-2008-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-2008-16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-2008-16&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
-
-## 📬 Connect With Me
+📬 Connect With Me
 
 <p align="center">
   <a href="https://ikon-production.netlify.app/">
@@ -192,12 +174,9 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer&text=Building+one+project+at+a+time&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Footer Banner"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tejas-2008-16&color=6E40C9&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
